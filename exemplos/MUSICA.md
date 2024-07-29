@@ -58,5 +58,3 @@ O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pe
 ## 💭 Reflexão
 
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante sobre o impacto da IA na composição musical.
-
-[LINK PARA O VÍDEO AQUI]()
